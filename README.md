@@ -1,3 +1,7 @@
+![QA](https://img.shields.io/badge/QA-Engineer-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Automation](https://img.shields.io/badge/Automation-Learning-green)
+
 # Hi, I'm Rotsukhon Vongsuwon 👋
 
 QA Engineer with 7+ years of experience in Software Testing.
@@ -21,6 +25,11 @@ QA Engineer with 7+ years of experience in Software Testing.
 - Jira
 - GitHub
 - Microsoft Office
+
+## Currently Learning
+- Playwright UI Automation
+- API Automation Testing
+- Robot Framework
 
 ## 🚀 My Projects
 ### 🧮 BMI Calculator (JavaScript)
