@@ -3,18 +3,33 @@
 QA Engineer with 7+ years of experience in Software Testing.
 
 ## Skills
-Testing: 
-- Manual Testing, Functional Testing, Regression Testing, Test Case Design, Defect Tracking
 
-Automation:
-- API Testing (Training), Robot Framework (Training), Playwright (Training)
+### Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Test Case Design
+- Defect Tracking
 
-## Tools
+### Automation (Learning)
+- API Testing
+- Robot Framework
+- Playwright
+
+### Tools
 - Postman
 - Jira
 - GitHub
 - Microsoft Office
 
-## My Projects
-- API Testing Automation
-- Playwright Automation
+## 🚀 My Projects
+### 🧮 BMI Calculator (JavaScript)
+A simple web application that calculates Body Mass Index (BMI) based on height and weight.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repository  
+https://github.com/yourusername/bmi-calculator-js
