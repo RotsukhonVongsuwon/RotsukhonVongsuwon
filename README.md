@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rotsukhon Vongsuwon 👋
 
-<!--
-**RotsukhonVongsuwon/RotsukhonVongsuwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with 7+ years of experience in Software Testing.
 
-Here are some ideas to get you started:
+## Skills
+Testing: 
+- Manual Testing, Functional Testing, Regression Testing, Test Case Design, Defect Tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automation:
+- API Testing (Training), Robot Framework (Training), Playwright (Training)
+
+## Tools
+- Postman
+- Jira
+- GitHub
+- Microsoft Office
+
+## My Projects
+- API Testing Automation
+- Playwright Automation
